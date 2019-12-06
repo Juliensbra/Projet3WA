@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+header {
+	background-image: url('../img/f1.png');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 50px;
+}
+
+header h1 {
+	color: white;
+	text-align: center;
+}
+
+body {
+	background-color: #b5b3c4;
+}
+
+table {
+	width: 80%;
+	margin: 0 auto;
+	border: 2px solid royalblue;
+}
+
+table td {
+	padding-bottom: 10px;
+	border: 2px solid royalblue;
+}
+
+footer{
+	background-color: #000;
+	padding: 50px;
+}
+
+footer p {
+	color: #FFF;
+	text-align: center;
+}
